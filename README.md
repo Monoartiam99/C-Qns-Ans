@@ -1,2 +1,2 @@
 # C-Qns-Ans
-C-Sheet (Impoartant Question)
+C-Sheet (Impoartant Questions And Answers)
