@@ -1,3 +1,4 @@
+//Adding of user defined variables
 #include<stdio.h>
 int main ()
 {
