@@ -11,6 +11,4 @@ int main ()
  printf("The value of c = %d", c);
 
  return 0;
-
-
 }
