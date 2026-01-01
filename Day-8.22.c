@@ -15,6 +15,7 @@ if(str[i] == digit)
 count++;
 }
 }
+  
 printf("The digit %c appears %d times in the string.\n", digit, count);
 return 0;
 }
